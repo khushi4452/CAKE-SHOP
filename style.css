@@ -6,7 +6,7 @@ body {
 
 
  .navbar {
-    background-color: #e67300;
+    background-color: #ffcc00;
     padding: 10px;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@ body {
  }
 
  .navbar-brand-name {
-    color: #fff;
+    color: #e91ab1;
     font-size: 30px;
     font-weight: bold;
     margin-left: 10px;
@@ -57,7 +57,7 @@ body {
 
  .header-title{
     font-size: 50px;
-    color: #e67300;
+    color: #331d07;
  }
 
  .header-description{
@@ -68,7 +68,7 @@ body {
  .header-explore-btn {
     font-size: 20px;
     font-weight: bold;
-    background-color: #e67300;
+    background-color: #e8cbad;
     color: #fff;
     padding:10px 20px ;
     border-radius: 30px;
