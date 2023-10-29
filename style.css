@@ -84,6 +84,35 @@ body {
     flex-wrap: wrap;
  }
 
+ .cake-card {
+   background-color: #fff;
+   width: 300px;
+   padding: 40px  20px;
+   margin: 20px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px rgba(0 ,0, 0 ,0.2);
+ }
+
+ .cake-card-image {
+   height: 150px;
+   display:block;
+   margin: 5px auto;
+   filter:drop-shadow (0 0 10px #ffcc00);
+ }
+
+ .cake-card-title {
+   text-align: center;
+   color: #e67300;
+   font-size: 25px;
+ }
+
+ .Cake-card-price {
+   text-align: center;
+   color: #e67300 ;
+   font-size: 22px;
+
+ }
+
 
 
  @media only screen and (max-width: 600px) {
